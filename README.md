@@ -92,7 +92,7 @@ talktrek/
 
 - [Rohan Bage](https://github.com/RohanBage)
 - [Roshan Khatal](https://github.com/Roshan-cloud1)
-- [Abhinav Upadhyay]()
+- [Abhinav Upadhyay](https://github.com/GeekAbhinav30)
 
 ## 📄 License
 
