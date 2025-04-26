@@ -1,0 +1,65 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+generated_plugin_registrant.dart
+
+# Android specific
+android/app/debug
+android/app/profile
+android/app/release
+*.apk
+*.aar
+*.iml
+*.gradle
+android/gradle/
+android/.gradle/
+android/local.properties
+
+# iOS specific
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+
+# macOS specific
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+macos/Runner.xcworkspace/
+macos/*.xcuserstate
+
+# Windows specific
+windows/Runner/GeneratedPluginRegistrant.cpp
+windows/.vs/
+windows/Runner/Runner.exe
+windows/Runner/Runner.pdb
+
+# Web specific
+web/.dart_tool/
+
+# Other
+.idea/
+.vscode/
+*.log
+*.tmp
+*.DS_Store
+*.lock
+pubspec.lock
+
+# Firebase/GoogleServices files (optional)
+# google-services.json
+# GoogleService-Info.plist
+
+# Secrets (optional)
+.env
